@@ -1,0 +1,54 @@
+# Spielnotizen
+
+- 04.06.2025 in York :)
+- Crispin Vale, der Vorgesetze des Lodon Waterboards
+- Ort des Todes: Battersea
+- Pari, Lizzy, Julien Ash(comb), Violet
+- Pari sitzt gelangweilt in der Pathologie, die anderen waren in das Waterboard eingebrochen
+- Offen: Der dritte von den drei Schlägern fehlt noch (Elias, Charlie, Albert). Charlie -> Wasserfass
+- Wassermühle: Im Süden von London in der Nähe eines Frischwasserdepots in der Nähe des begradigten Flusses Twaine (Fluss wurde umgeleitet)
+- Das Reservoir wurde aus einem umgeleiteten Teil des Twaine befüllt. Vorher ging der Flusslauf nur das begradigte Ende entlang.
+- Wir fahren zu der Wassermühle in Mordan, südlich von Wimbledton. Die Gegend ist dünn besiedelt, ein echter Vorort.
+  - Das Tennisturnier ist bereits bekannt
+- Die alte Wassermühle liegt pittoresk an einem Wäldchen, ca. 200 Meter vom Ortskern entfernt. Sie wurde zu einer Inn umgebaut. Wir hören ein Wasserrad, das sich langsam dreht. Die Gegend ist parkähnlich. Der Fluss ist der, der anscheinend eine Weile trockengelegt war. Der Flusspegel ist etwas niedriger als früher. Ein paar Schafe stehen auf Wiesen herum. Es ist unklar, wie gut der Ort hier für ein Gasthaus ist.
+- Unser Kutscher fährt zurück nach Wimbledton. Lizzy guckt sich in der Gegend um, während wir anderen uns in dem Pub umschauen.
+- Das Gebäude ist sehr gemütlich und erstreckt sich über zwei Etagen. EIn großer Mühlstein liegt in der Mitte des unteren Raumes. Niemand ist aktuell hinter dem Thresen.
+- Violet schaut sich oben um. Sie sieht einen niedrigen Flur, auf der rechten Seite sind Zimmertüren. EIn Bad und drei Gästezimmer mit Nummern. Links sind Fenster in Richtung Fluss.
+- Im Nachbarzimmer (Küche) unterhalten sich eine ältere Frau und zwei Männer. Ash klopft und eine Frau Ende zwanzig (lange blonde Haare, Schürze, blaukariertes Kleid) kommt aus dem Zimmer. Wir bestellen Frühstück.
+  - Angeblich wurde das Lokal erst letztes Jahr eröffnet
+  - Der Park hat auch von dem Wasser profitiert
+  - Angeblich befindet sich das Haus im Besitz der Familie der Köchin
+  - Sie spricht ein völlig dialektfreies Englisch
+  - Violet nimmt wahr, dass sie ein Vestigium nach Sommerblumen mit sich trägt, dazu ein Knarzen eines Mühlsteins und Sommerblumen. Sie scheint eine Verwandte von Lady Ty zu sein.
+- Lizzy wandert im leichten Regen in den Norden des Parks, wo sie einen weiteren Flusslauf wahrzunehmen meint. Sie folgt dem Geräusch zu einer Brücke, unter der ein breiterer Flusslauf zu sehen ist. Ein Wehr teilt den Fluss auf, es sieht alt aus.
+- Kosten: Sixpence (teuer)
+  - Koch und Gehilfe 
+  - Die Frau lebt angeblich im Dorf, die beiden männlichen Stimmen sind der Koch und der Gehilfe.
+- Lizzy sieht, dass sich ein Auto von außen nähert. Ein älterer Mann mit schwarzem Anzug steigt aus, hageres Gesicht, Stehkragen, Mitte 50 Regenschirm. Geht in den Pub. Das Auto war ein Taxi, das wieder zurückfährt. 
+- Der Mann ist tatsächlich Crispin Vale. Er tritt an den Thresen. Die Wirtin begrüßt ihn, wobei sie ihre Hand auf die seine legt. Die beiden unterhalten sich in Abwesenheit von Koch und Gehilfen in der Küche. 
+- Lizzie hört "...und den dritten habe ich in einem heruntergekommenen Inn gefunden, wir müssen uns keine Gedanken mehr machen". Dann sieht sie Lizzy.
+- Der Tonfall ändert sich von einem gedämpften Gespräch zu einem hektischen Tuscheln. "Wir müssen uns sofort darum kümmern". Die beiden Gehilfen der Wirtin werden losgeschickt, um Lizzy zu suchen. Sie haben ein Messer und einen Knüppel bei sich.
+- Vermutlich hat die Wirtin Vale bezaubert, da dieser so gar nicht nach Mörder aussieht.
+- Ich fahre zu der Kanzlei des Kontaktmannes von Lady Ty.
+- Horace Edwin Finch, Solicitor
+- Ash bekommt in seinem Detektivbüro in Soho Besuch. Eine junge, schlanke Frau, die aber muskulöse Arme hat. Einfache Kleidung, braune Haare, Sommersprossen.
+  - Sie wirkt sehr nervös und stellt sich als Clara Mathews vor. Angeblich vermisst sie jemanden, beziehungsweise mehrere Personen.
+  - Sie hat als Dienstmagd bei den "Havershams" gearbeitet. Vor drei Jahren hat Lady Haversham da Haus verlassen und ist verschwunden. Claras Freundin Anna Blake ist eine Woche davor verschwunden. Die Lady war angeblich auf einer Schiffsreise, bei der das Schiff untergegangen ist (versenkt von einem deutschen Uboot). 
+  - Seltsam war, dass die Zofe von Lady Haversham nicht bei der Fahrt dabei war. Eventuell hatten die Zofe und der Lord ein Verhältnis, 
+  - Später verschwand Lord Haversham ebenfalls, keiner der Angestellten wusste, wohin.
+  - Das Ganze war vor drei Jahren im Mai. Clara und Ann teilten sich ein Zimmer, die Sachen hat sie dort gelassen. Ann war sehr zufrieden, es gab keinen Grund, zu gehen.
+  - Der Lord ist vor fünf Tagen auch verschwunden und die Polizei war uninteressiert, weswegen Clara jetzt Ash beauftragt hat. 
+  - Clara ist jetzt arbeitssuchend, da der Lord verschwunden ist.
+  - Ash bekommt die Adresse des Anwesens in Mayfair. Es gibt an der Seite des Hauses einen Dienstboteneingang. Dort steckt in einem Blumentopf (dritter von links) ein Schlüssel.
+  - Ash besucht das Anwesen. Niemand macht ihm auf, aber er kommt mit dem Geheimschlüssel in das Haus. Das Haus ist schon elektrifiziert, ein Kühlschrank brummt in der Ecke. In der Servant Hall steht eine Standuhr, die aber nicht mehr aufgezogen wurde.
+  - Ein Junge von der Straße erzählt, dass sich niemand in dem Haus aufhalten würde.
+  - Das Haus ist ein bisschen unheimlich, da komplett verwaist. Die Dienstbotenzimmer sind im Keller und unter dem Dach, Diese wirken eilig geräumt, als ob die Angestellten das Haus fluchtartig verlassen hätten (vermutlich, um der üblichen Befragung durch die Polizei zu entgehen). Das Schlafzimmer der Lady ist abgehängt. 
+  - In der Bibliothek des Lords steht ein großer, goldverzierter Spiegel. Eine halbvolle Tasse mit Tee ist auf einem Tischchen zu sehen, was angesichts des leeren Hauses seltsam ist.
+  - Strom ist noch vorhanden. Es gibt einen Safe, der aber verschlossen ist. Laut Gehaltsbuch des Butlers haben am Ende noch sieben Leute in dem Haus gearbeitet, darunter auch Clara, der Valet und der Butler.
+  - Drei Kinder lauern neugierig vor der Tür, verziehen sich aber, als Ash einen Schlüssel hat (und kurz sein Waffenholster aufblitzen lässt).
+  - Wir treffen uns mit Mr. Finch und erzählen ihm alles Wichtige
+  - Ash war mit der verstorbenen Nennschwester von Lady Tyburn verlobt. Er ist nichtmagisch, kennt aber die magische Gesellschaft ein bisschen.
+  - Paris Familie ist aus Persien eingewandert.
+- Wir besprechen den Umgang mit dem verlassenen Haus in Mayfair
+  - Ash erzählt uns die Geschichte, die er von Clara erfahren hat
+  - Das frühe Verschwinden aller Bediensteten, insbesondere des Butlers, macht uns misstrauisch
