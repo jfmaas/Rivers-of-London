@@ -1,9 +1,8 @@
-# Rivers of London 2
-
-* 2026-05-19
+* Datum:2026-05-19
 * Mitspieler
   * Mareike: Leri Dyffryn, junge Frau, sehr groß, wahrscheinlich Halb-Fee, große Augen
-  * Ralf: Ethel Clinthock, sieht gewöhnlich aus. Newtonische Magierin
+  * Ralf: Ethel Clinthock, sieht gewöhnlich aus. Newtonische Magierin. gehört zur Polizei.
+## Ereignisse
 * Fairweather Market in einem Regenwasser-Reservoir, magischer/krimineller Markt (der bei Regen allerdings schließt). Einige Hütten können schwimmen, wenn das Wasser steigt.
 * Ich sehe zwei seltsame Frauen neben einer Leprechaun-Figur (Eingang zu einem Laden). Ich kenne sie noch nicht.
 * Die beiden werden verfolgt von zwei Männern in schäbigen Anzügen.
