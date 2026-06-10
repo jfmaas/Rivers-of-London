@@ -4,13 +4,13 @@
 
 * Occupation: Criminal
 * Attributes
-	  * STR: 30
-	  * CON: 30
-	  * DEX: 70
-	  * INT: 70
-	  * POW: 80
-	  * Luck (variabel, aktueller Stand): 74
-	  * MOV: 8
+	 * STR: 30
+	 * CON: 30
+	 * DEX: 70
+	 * INT: 70
+	 * POW: 80
+	 * Luck (variabel, aktueller Stand): 74
+	 * MOV: 8
 
 * Advantages: 
 	  * Magical (Major)
@@ -19,7 +19,7 @@
 	  * Crossed the wrong people
 
 * Skills:
-	  * Common
+	 * Common
 	    * Athletics 30%
 	    * Navigate 30%
 	    * Observation 30%
@@ -36,17 +36,19 @@
 	    * Magic 80% (70 + 10)
 	    * Science: Mathematics 60%
 
-* Spells
-  * Grad 1
-    * Aqua
-    * Impello, mastered
-    * Werelight, mastered
-  * Grad 2
+## Zauber
+
+* Grad 1
+	 * Aqua
+	 * Impello, mastered
+	 * Werelight, mastered
+* Grad 2
     * Shield, mastered
     * Waterbomb, mastered
-  * Grad 3
+* Grad 3
     * Grasping Hand
     * Glitter Bomb
+
 * Magiepunkte: 19 (80 / 5 + Anzahl gemeisterter Sprüche)
 * Signare: Das Geräusch eines kleinen Bachs / ein Geruch nach Lavendel / ein leichter Schauer
 
@@ -59,28 +61,28 @@
 
 ## Steigerungen
 * Steigerungspunkte
-	  * Offen: 2
+	 * Offen: 2
 	  * Vergeben: 5
 
 * Steigerung 1
-	  * Impello: Mastered
-	  * Grasping Hand: Basic
-	  * Magic +10%
+	 * Impello: Mastered
+	 * Grasping Hand: Basic
+	 * Magic +10%
 
 * Steigerung 2
-	  * Waterbomb: Mastered
-	  * Glitter Bomb
+	 * Waterbomb: Mastered
+	 * Glitter Bomb
 
 ## Planung
 
 * **Steigerung 3**
-	  * Observation +10
-	  * Candano
-	  * Grasping Hand, mastered
+	 * Observation +10
+	 * Candano
+	 * Grasping Hand, mastered
 
 * Zauber in Grad 4 lernen (in 5 wird es extrem spannend)
-	  * Flying Ice Saw
-	  * The Wall Banger
+	 * Flying Ice Saw
+	 * The Wall Banger
 
 ### Breakdown der Zauber
 
@@ -143,8 +145,7 @@ Prioritäten:
 
 * **Candano**
 	* Priorität: 2
-	* Utility: Kann Leute festhalten. Guter Resistenzwurf, aber guter Erfolg nötig, um vollständig zu widerstehen.
-	* Kampf: Kann Leute festhalten. Guter Resistenzwurf, aber guter Erfolg nötig, um vollständig zu widerstehen.
+	* Kampf/Utility: Kann Leute festhalten. Guter Resistenzwurf, aber guter Erfolg nötig, um vollständig zu widerstehen.
 	* Kontext: -
 
 * **Car Killer**
